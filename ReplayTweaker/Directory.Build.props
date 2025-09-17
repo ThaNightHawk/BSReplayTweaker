@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PluginId>ReplayTweaker</PluginId>
+    <PluginName>ReplayTweaker</PluginName>
+    <Authors>ThaNightHawk</Authors>
+    <Version>1.0.0</Version>
+    <GameVersion>1.40.3</GameVersion>
+    <Description>Cleans up BeatLeader, ScoreSaber and CustomNotes Watermark crap from replays. Allows Content Creators to get a clean view of their gameplay. Stay mad, soyboys.</Description>
+    <ProjectSource>https://github.com/ThaNightHawk/BSReplayTweaker</ProjectSource>
+  </PropertyGroup>
+
+  <!-- Plugin Dependencies -->
+  <ItemGroup>
+    <DependsOn Include="BSIPA" Version="^4.3.0"/>
+  </ItemGroup>
+  
+  <PropertyGroup>
+    <BSMTProjectType>BSIPA</BSMTProjectType>
+    <GenerateManifest>true</GenerateManifest>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)' != 'Release'">
+    <DisableZipRelease>true</DisableZipRelease>
+    <ErrorOnMismatchedVersions>false</ErrorOnMismatchedVersions>
+  </PropertyGroup>
+  
+</Project>

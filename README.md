@@ -6,6 +6,10 @@ Used for content creators to get a clean environment, when recording replays in 
 - "REPLAY"-watermark added by ScoreSaber.
 - "CUSTOM NOTES ENABLED"-watermark added by CustomNotes.
 
+No menus, no hidden settings, no bullshit. Install and forget.
+
+If you for some reason, idk why you'd want it, want the watermarks back, close your game, delete the plugin, and they're back.
+
 > [!WARNING]
 > I take no responsibility for how users utilize this.
 >    

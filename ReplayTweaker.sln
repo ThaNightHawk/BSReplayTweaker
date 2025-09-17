@@ -1,5 +1,4 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplayTweaker", "ReplayTweaker\ReplayTweaker.csproj", "{67EBA886-5F4A-46FC-BC41-474504EEC4F0}"
 EndProject
 Global

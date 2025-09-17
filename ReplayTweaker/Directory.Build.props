@@ -5,7 +5,7 @@
     <PluginName>ReplayTweaker</PluginName>
     <Authors>ThaNightHawk</Authors>
     <Version>1.0.0</Version>
-    <GameVersion>1.40.3</GameVersion>
+    <GameVersion>1.29.1</GameVersion>
     <Description>Cleans up BeatLeader, ScoreSaber and CustomNotes Watermark crap from replays. Allows Content Creators to get a clean view of their gameplay. Stay mad, soyboys.</Description>
     <ProjectSource>https://github.com/ThaNightHawk/BSReplayTweaker</ProjectSource>
   </PropertyGroup>

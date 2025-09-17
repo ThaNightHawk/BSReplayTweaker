@@ -16,6 +16,7 @@ internal class Init
     [Init]
     public Init(IpaLogger ipaLogger, PluginMetadata pluginMetadata, Zenjector zenjector)
     {
+        Init.Log = ipaLogger;
         Init.Log.Info($"{pluginMetadata.Name} {pluginMetadata.HVersion} initialized.");
         Init.Log.Warn("This is meant for content creation. Do NOT use this to fake replays as being your own.");
         _harmony = new Harmony(pluginMetadata.Id);

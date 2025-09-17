@@ -40,7 +40,6 @@
             <Private>false</Private>
         </Reference>
         <Reference Include="mscorlib"/>
-        <Reference Include="netstandard"/>
         <Reference Include="SiraUtil">
             <HintPath>$(BeatSaberDir)\Plugins\SiraUtil.dll</HintPath>
             <Private>false</Private>

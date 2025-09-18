@@ -15,5 +15,5 @@ If you for some reason, idk why you'd want it, want the watermarks back, close y
 >    
 > I don't care about the argument "People will steal replays".
 >
-> Complaints about me allowing replay stealing can be sent to `crymeariver@hawk.quest`  
-> I'll proudly feature each and every person who cries about it.
+> Complaints about me allowing replay stealing can be sent to `crymeariver@hawk.quest` or to `hawk_bs` on Discord.  
+> I'll feature each and every person who cries about it.
